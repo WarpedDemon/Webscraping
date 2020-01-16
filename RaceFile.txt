@@ -1,0 +1,1382 @@
+
+            
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="EN" xml:lang="EN">
+<head><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /><meta http-equiv="X-UA-Compatible" content="IE=edge" /><meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" /><meta name="description" content="Racing and Wagering Western Australia (RWWA) - Thoroughbred, Harness and Greyhound racing" /><meta name="google-site-verification" content="pQpIM2CO69SplS6rTAlLa1DlArIHAlmnkufUurDPWyQ" />
+     <!-- hack to stop IE flicker on postback -->
+    <!--[if ie]>    
+        <meta id="ctl00_metaBlendFilter" http-equiv="Page-Enter" content="blendTrans(Duration=0.01)" />
+    <![endif]-->
+    
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-KV9CSW4');</script>
+    <!-- End Google Tag Manager -->
+
+    <script>window.q=[];window.$=function(f){q.push(f)}</script>
+    <title>
+	CRIS: Race Results
+</title>
+    
+    <!-- Add CSS Here -->
+    
+                <link rel="stylesheet" media="screen" type="text/css" href="/CRIS/assets/css/bootstrap.min.css" /><link rel="stylesheet" media="screen" type="text/css" href="/CRIS/assets/css/owl.carousel.css" /><link rel="stylesheet" media="screen" type="text/css" href="/CRIS/assets/css/font-awesome.min.css" />
+                
+                    <!-- 
+                    <p><a href="/CRIS/assets/css/fontawesome-webfont.eot">fontawesome-webfont.eot</a> <a href="/CRIS/assets/css/fontawesome-webfont.woff2">fontawesome-webfont.woff2</a> <a href="/CRIS/assets/css/fontawesome-webfont.woff">fontawesome-webfont.woff</a> <a href="/CRIS/assets/css/fontawesome-webfont.ttf">fontawesome-webfont.ttf</a> <a href="/CRIS/assets/css/fontawesome-webfont.svg">fontawesome-webfont.svg</a> <a href="/CRIS/assets/css/FontAwesome.otf">FontAwesome.otf</a></p>
+                    -->
+                
+		    		<link href="//fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600,700,400italic,300italic,600italic,700italic" rel="stylesheet" type="text/css" /><link rel="stylesheet" media="screen" type="text/css" href="/CRIS/assets/css/main.css" />
+                
+                    <!-- 
+                    <p><a href="/CRIS/assets/css/Futura.eot">Futura.eot</a> <a href="/CRIS/assets/css/Futura.otf">Futura.otf</a> <a href="/CRIS/assets/css/Futura.woff">Futura.woff</a> <a href="/CRIS/assets/css/Futura.ttf">Futura.ttf</a> <a href="/CRIS/assets/css/Futura.svg">Futura.svg</a> <a href="/CRIS/assets/css/Futura-Bold.eot">Futura-Bold.eot</a> <a href="/CRIS/assets/css/Futura-Bold.otf">Futura-Bold.otf</a> <a href="/CRIS/assets/css/Futura-Bold.woff">Futura-Bold.woff</a> <a href="/CRIS/assets/css/Futura-Bold.ttf">Futura-Bold.ttf</a> <a href="/CRIS/assets/css/Futura-Bold.svg">Futura-Bold.svg</a> <a href="/CRIS/assets/css/Futura-Heavy.eot">Futura-Heavy.eot</a> <a href="/CRIS/assets/css/Futura-Heavy.otf">Futura-Heavy.otf</a> <a href="/CRIS/assets/css/Futura-Heavy.woff">Futura-Heavy.woff</a> <a href="/CRIS/assets/css/Futura-Heavy.ttf">Futura-Heavy.ttf</a> <a href="/CRIS/assets/css/Futura-Heavy.svg">Futura-Heavy.svg<img alt="" src="/CRIS/assets/css/greyhound-shadow.png" style="height:170px; width:296px" /><img alt="" src="/CRIS/assets/css/harness-shadow.png" style="height:170px; width:296px" /><img alt="" src="/CRIS/assets/css/thoroughbred-shadow.png" style="height:170px; width:296px" /><img alt="" src="/CRIS/assets/css/timer-shadow.png" style="height:170px; width:296px" /><img alt="" src="/CRIS/assets/css/thoroughbred.png" style="height:45px; width:46px" /><img alt="" src="/CRIS/assets/css/harness.png" style="height:45px; width:46px" /><img alt="" src="/CRIS/assets/css/greyhound.png" style="height:45px; width:46px" /><img alt="" src="/CRIS/assets/css/general-bg.png" style="height:161px; width:1300px" /><img alt="" src="/CRIS/assets/css/greyhound-bg.png" style="height:161px; width:1300px" /><img alt="" src="/CRIS/assets/css/harness-bg.png" style="height:161px; width:1300px" /><img alt="" src="/CRIS/assets/css/offthetrack-bg.png" style="height:161px; width:1300px" /><img alt="" src="/CRIS/assets/css/thoroughbred-bg.png" style="height:161px; width:1300px" /></a></p>
+                    -->
+                
+		    
+                <link rel="stylesheet" media="screen" type="text/css" href="/CRIS/assets/css/media-queries.css" /><link rel="stylesheet" media="screen" type="text/css" href="/CRIS/assets/css/square.css" />
+                
+                    <!-- 
+                    <p><img alt="" src="/CRIS/assets/css/square.png" /></p>
+                    -->
+                
+		    
+    
+<link rel="stylesheet" type="text/css" href="/cris/css/jquery-ui.min.css" />
+<link rel="stylesheet" type="text/css" href="/cris/css/ResponsiveTables.css" />
+<link rel="stylesheet" type="text/css" href="/cris/cris.css" />
+<link rel="stylesheet" type="text/css" href="/cris/css/media-meetingphotos.css" />
+    <!-- Tuesday, 26 February 2019 8:07 AM -->
+</head>
+<body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KV9CSW4" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+    
+<!--WS: RAWPRWW101V; AS: RAWPRWA101V-->
+
+    <!-- HEADER : START - This is the menu including the breadcrumb  -->
+    		<!-- - - - - - - - -  HEADER  - - - - - - - - -->
+		<header>
+            <div class="container">
+				<div class="row">
+                    <div class="col-xs-2 col-sm-12 col-md-2">
+						<h1>
+							<a href="/home/default.html"><img src="/CRIS/assets/images/structural/RWWA-logo.png" alt="RWWA&#39;s logo" class="rwwa-logo-header"></a>
+						</h1>
+					</div>
+					<div class="col-xs-10">
+						<div id="mobile-hamburger" class="visible-xs-inline-block hamburger-menu">
+							<i class="fa fa-bars"></i>
+						</div>
+						<nav class="secondary-nav hidden-xs hidden-sm">
+							<ul>
+								<li><a href="/home/default.html">Home</a></li><li><a href="/home/accessibility-34.html">Accessibility</a></li><li><a href="/home/about/contact.html">Contact</a></li><li><a href="/home/industry/registration-forms.html">Registration &amp; Forms</a></li>
+							</ul>
+							<a href="https://www.facebook.com/racingandwageringwa/" class="secondary-nav__social-network"><i class="fa fa-facebook-square"></i></a>
+							<a href="https://twitter.com/OfficialRWWA" class="secondary-nav__social-network"><i class="fa fa-twitter-square"></i></a>
+							<div class="secondary-nav__searchbar">
+								<div class="input-group">
+								    <form action="/home/search-results.html" autocomplete="on" method="get" name="site-search">
+    									<input style="width:161px;" name="q" type="text" class="form-control" placeholder="Search" aria-label="Search term">
+	    								<div class="input-group-btn">
+		    								<button class="btn btn-default" role="button">
+			    							<i class="fa fa-search secondary-nav__searchbar__glass"></i>
+				    						</button>
+    									</div>
+			    					</form>
+								</div>
+							</div>
+						</nav>
+					</div>
+					<div class="col-md-10 col-xs-12">
+    					<nav class="main-nav">
+							<ul>
+                                
+                <li>
+                    <a class="main-nav__link" href="/home/racing/default.html">
+                        RACING
+                        <div class="main-nav__hover-zone hidden-xs">
+                            <img src="" alt="Chevron" class="huge-menu-chevron">
+                        </div>
+                    </a>
+                    <i class="visible-xs expand-menu-img fa fa-chevron-down"></i>
+                
+                        <!-- ****  HUGE MENU **** -->
+                        <div class="huge-menu">
+                            
+                <div class="huge-menu__column">
+                    <h2 class="h6"><a href="/home/racing/thoroughbred-hub.html">Thoroughbred Hub</a></h2>
+            
+                        <ul class="hidden-xs">
+                            
+                <li><a href="/home/racing/cris-60.html">CRIS</a></li>
+            
+                <li><a href="/home/racing/thoroughbred-programming.html">Thoroughbred Programming</a></li>
+            
+                <li><a href="/home/racing/post-race-interviews.html">Post Race Interviews</a></li>
+            
+                <li><a href="/home/racing/apprentice-jockey-riding-claims.html">Apprentice Jockey Riding Claims</a></li>
+            
+                <li><a href="/home/racing/stable-returns.html">Stable Returns</a></li>
+            
+                <li><a href="/home/racing/trainer-and-owner-reforms-6123.html">Trainer and Owner Reforms</a></li>
+            
+                        </ul>
+                    
+                </div>
+            
+                <div class="huge-menu__column">
+                    <h2 class="h6"><a href="/home/racing/harness-hub.html">Harness Hub</a></h2>
+            
+                        <ul class="hidden-xs">
+                            
+                <li><a href="/home/racing/harness-racing-62.html">Harness Racing</a></li>
+            
+                <li><a href="/home/racing/harness-trial-replays-5969.html">Harness Trial Replays</a></li>
+            
+                <li><a href="/home/racing/industry-feedback-on-new-harness-business-model-7118.html">New Harness Business Model</a></li>
+            
+                        </ul>
+                    
+                </div>
+            
+                <div class="huge-menu__column">
+                    <h2 class="h6"><a href="/home/racing/greyhound-hub.html">Greyhound Hub</a></h2>
+            
+                        <ul class="hidden-xs">
+                            
+                <li><a href="/home/racing/greyhound-racing-64.html">Greyhound Racing</a></li>
+            
+                <li><a href="/home/racing/greyhound-programming.html">Greyhound Programming</a></li>
+            
+                <li><a href="/home/racing/race-replays-7650.html">Race Replays</a></li>
+            
+                        </ul>
+                    
+                </div>
+            
+                        </div>
+                        <!-- ****  END HUGE MENU **** -->
+                    
+                </li>
+            
+                <li>
+                    <a class="main-nav__link" href="/home/industry/default.html">
+                        INDUSTRY
+                        <div class="main-nav__hover-zone hidden-xs">
+                            <img src="" alt="Chevron" class="huge-menu-chevron">
+                        </div>
+                    </a>
+                    <i class="visible-xs expand-menu-img fa fa-chevron-down"></i>
+                
+                        <!-- ****  HUGE MENU **** -->
+                        <div class="huge-menu">
+                            
+                <div class="huge-menu__column">
+                    <h2 class="h6"><a href="/home/industry/registration-forms.html">Registrations & Forms</a></h2>
+            
+                        <ul class="hidden-xs">
+                            
+                <li><a href="/home/industry/how-to-pay.html">How to Pay</a></li>
+            
+                <li><a href="/home/industry/contact-details-1228.html">Contact Details</a></li>
+            
+                        </ul>
+                    
+                </div>
+            
+                <div class="huge-menu__column">
+                    <h2 class="h6"><a href="/home/industry/integrity.html">Integrity</a></h2>
+            
+                        <ul class="hidden-xs">
+                            
+                <li><a href="/home/industry/stewards-inquiries.html">Stewards Inquiries</a></li>
+            
+                <li><a href="/home/industry/pending-inquiries-appeals-8410.html">Pending Inquiries & Appeals</a></li>
+            
+                <li><a href="/home/industry/rules-policies.html">Rules & Policies</a></li>
+            
+                <li><a href="/home/industry/suspended-injured-riders.html">Suspended & Injured Riders</a></li>
+            
+                <li><a href="/home/industry/integrity-notices-5953.html">Integrity Notices</a></li>
+            
+                <li><a href="/home/industry/gear.html">Gear</a></li>
+            
+                <li><a href="/home/industry/veterinary-notices.html">Veterinary Notices</a></li>
+            
+                <li><a href="/home/industry/harassment-discrimination-418.html">Harassment & Discrimination</a></li>
+            
+                <li><a href="/home/industry/disqualifications-1547.html">Disqualifications</a></li>
+            
+                        </ul>
+                    
+                </div>
+            
+                <div class="huge-menu__column">
+                    <h2 class="h6"><a href="/home/industry/tabtouch.html">TABtouch</a></h2>
+            
+                        <ul class="hidden-xs">
+                            
+                <li><a href="/home/industry/responsible-wagering-329.html">Responsible Wagering</a></li>
+            
+                <li><a href="/home/industry/legislation-rules-330.html">Legislation & Rules</a></li>
+            
+                        </ul>
+                    
+                </div>
+            
+                <div class="huge-menu__column">
+                    <h2 class="h6"><a href="/home/industry/thoroughbreds-68.html">Thoroughbreds</a></h2>
+            
+                        <ul class="hidden-xs">
+                            
+                <li><a href="/home/industry/westspeed.html">WestSpeed</a></li>
+            
+                <li><a href="/home/industry/thoroughbred-handicapping-306.html">Thoroughbred Handicapping</a></li>
+            
+                <li><a href="/home/industry/thoroughbred-consultative-group-307.html">Thoroughbred Racing Committee</a></li>
+            
+                <li><a href="/home/industry/thoroughbred-insurance-308.html">Thoroughbred Insurance</a></li>
+            
+                        </ul>
+                    
+                </div>
+            
+                <div class="huge-menu__column">
+                    <h2 class="h6"><a href="/home/industry/harness-69.html">Harness</a></h2>
+            
+                        <ul class="hidden-xs">
+                            
+                <li><a href="/home/industry/westbred.html">WestBred</a></li>
+            
+                <li><a href="/home/industry/epona-3668.html">EPONA</a></li>
+            
+                <li><a href="/home/industry/harness-handicapping-310.html">2019 Harness Conditioned Racing System Guide</a></li>
+            
+                <li><a href="/home/industry/harness-consultative-group-311.html">Harness Racing Committee</a></li>
+            
+                <li><a href="/home/industry/harness-insurance-312.html">Harness Insurance</a></li>
+            
+                        </ul>
+                    
+                </div>
+            
+                <div class="huge-menu__column">
+                    <h2 class="h6"><a href="/home/industry/greyhounds-70.html">Greyhounds</a></h2>
+            
+                        <ul class="hidden-xs">
+                            
+                <li><a href="/home/industry/westchase.html">WestChase</a></li>
+            
+                <li><a href="/home/industry/greyhound-grading-314.html">Greyhound Grading</a></li>
+            
+                <li><a href="/home/industry/greyhound-consultative-group-315.html">Greyhound Racing Committee</a></li>
+            
+                <li><a href="/home/industry/greyhound-insurance-316.html">Greyhound Insurance</a></li>
+            
+                        </ul>
+                    
+                </div>
+            
+                <div class="huge-menu__column">
+                    <h2 class="h6"><a href="/home/industry/industry-info.html">Industry Info</a></h2>
+            
+                        <ul class="hidden-xs">
+                            
+                <li><a href="/home/industry/public-promoters-of-syndication-1316.html">Public Promoters of Syndication</a></li>
+            
+                <li><a href="/home/industry/sponsorship-317.html">Sponsorship</a></li>
+            
+                        </ul>
+                    
+                </div>
+            
+                        </div>
+                        <!-- ****  END HUGE MENU **** -->
+                    
+                </li>
+            
+                <li>
+                    <a class="main-nav__link" href="/home/club-events/default.html">
+                        CLUBS & EVENTS
+                        <div class="main-nav__hover-zone hidden-xs">
+                            <img src="" alt="Chevron" class="huge-menu-chevron">
+                        </div>
+                    </a>
+                    <i class="visible-xs expand-menu-img fa fa-chevron-down"></i>
+                
+                        <!-- ****  HUGE MENU **** -->
+                        <div class="huge-menu">
+                            
+                <div class="huge-menu__column">
+                    <h2 class="h6"><a href="/home/club-events/race-clubs.html">Race Clubs</a></h2>
+            
+                </div>
+            
+                <div class="huge-menu__column">
+                    <h2 class="h6"><a href="/home/club-events/industry-events.html">Industry Events</a></h2>
+            
+                </div>
+            
+                <div class="huge-menu__column">
+                    <h2 class="h6"><a href="/home/club-events/wa-country-cups.html">WA Country Cups</a></h2>
+            
+                        <ul class="hidden-xs">
+                            
+                <li><a href="/home/club-events/about-wa-country-cups-3615.html">About WA Country Cups</a></li>
+            
+                <li><a href="/home/club-events/showcasing-the-regions-5561.html">Showcasing the Regions</a></li>
+            
+                <li><a href="/home/club-events/competitions-3614.html">Competitions</a></li>
+            
+                <li><a href="/home/club-events/wa-country-cups-fashions-on-the-field.html">WA Fashions on the Field</a></li>
+            
+                        </ul>
+                    
+                </div>
+            
+                <div class="huge-menu__column">
+                    <h2 class="h6"><a href="/home/club-events/wa-racing-hall-of-fame.html">WA Racing Hall of Fame</a></h2>
+            
+                        <ul class="hidden-xs">
+                            
+                <li><a href="/home/club-events/nominees-5021.html">Nominees</a></li>
+            
+                <li><a href="/home/club-events/competition-5019.html">Competition</a></li>
+            
+                <li><a href="/home/club-events/sponsors-4327.html">Sponsors</a></li>
+            
+                <li><a href="/home/club-events/inductees-4420.html">Inductees</a></li>
+            
+                <li><a href="/home/club-events/criteria-4325.html">Criteria</a></li>
+            
+                <li><a href="/home/club-events/selection-panels-4328.html">Selection Panels</a></li>
+            
+                <li><a href="/home/club-events/about-4324.html">About</a></li>
+            
+                <li><a href="/home/club-events/contact-4326.html">Contact</a></li>
+            
+                        </ul>
+                    
+                </div>
+            
+                <div class="huge-menu__column">
+                    <h2 class="h6"><a href="/home/club-events/for-the-love-of-racing.html">For The Love Of Racing</a></h2>
+            
+                        <ul class="hidden-xs">
+                            
+                <li><a href="/home/club-events/win-a-share-in-a-racehorse-7010.html">Win a Share in a Racehorse</a></li>
+            
+                <li><a href="/home/club-events/magic-millions-perth-yearling-sale-7011.html">Magic Millions Perth Yearling Sale</a></li>
+            
+                        </ul>
+                    
+                </div>
+            
+                <div class="huge-menu__column">
+                    <h2 class="h6"><a href="/home/club-events/harness-the-rhythm.html">Harness The Rhythm</a></h2>
+            
+                </div>
+            
+                        </div>
+                        <!-- ****  END HUGE MENU **** -->
+                    
+                </li>
+            
+                <li>
+                    <a class="main-nav__link" href="/home/our-community/default.html">
+                        OUR COMMUNITY
+                        <div class="main-nav__hover-zone hidden-xs">
+                            <img src="" alt="Chevron" class="huge-menu-chevron">
+                        </div>
+                    </a>
+                    <i class="visible-xs expand-menu-img fa fa-chevron-down"></i>
+                
+                        <!-- ****  HUGE MENU **** -->
+                        <div class="huge-menu">
+                            
+                <div class="huge-menu__column">
+                    <h2 class="h6"><a href="/home/our-community/off-the-track.html">Off the Track</a></h2>
+            
+                        <ul class="hidden-xs">
+                            
+                <li><a href="/home/our-community/retired-racehorses.html">Retired Racehorses</a></li>
+            
+                <li><a href="/home/our-community/getting-an-ex-racehorse.html">Getting an ex Racehorse</a></li>
+            
+                <li><a href="/home/our-community/retrainers.html">Retrainers</a></li>
+            
+                <li><a href="/home/our-community/professional-services.html">Professional Services</a></li>
+            
+                <li><a href="/home/our-community/clubs-and-coaches.html">Clubs and Coaches</a></li>
+            
+                <li><a href="/home/our-community/common-questions.html">Common Questions</a></li>
+            
+                <li><a href="/home/our-community/about-us-91.html">About Us</a></li>
+            
+                <li><a href="/home/our-community/contact-us-92.html">Contact Us</a></li>
+            
+                        </ul>
+                    
+                </div>
+            
+                <div class="huge-menu__column">
+                    <h2 class="h6"><a href="/home/our-community/greyhounds-as-pets.html">Greyhounds As Pets</a></h2>
+            
+                        <ul class="hidden-xs">
+                            
+                <li><a href="/home/our-community/greyhound-adoption.html">Greyhound Adoption</a></li>
+            
+                <li><a href="/home/our-community/contact-gap.html">Contact GAP</a></li>
+            
+                        </ul>
+                    
+                </div>
+            
+                <div class="huge-menu__column">
+                    <h2 class="h6"><a href="/home/our-community/owners-only.html">Owners Only</a></h2>
+            
+                        <ul class="hidden-xs">
+                            
+                <li><a href="/home/our-community/owning-a-thoroughbred.html">Owning a Thoroughbred</a></li>
+            
+                <li><a href="/home/our-community/owning-a-standardbred-3879.html">Owning a Standardbred</a></li>
+            
+                <li><a href="/home/our-community/owning-a-greyhound-4934.html">Owning a Greyhound</a></li>
+            
+                <li><a href="/home/our-community/industry-information.html">Industry Information</a></li>
+            
+                <li><a href="/home/our-community/ambassadors.html">Ambassadors</a></li>
+            
+                <li><a href="/home/our-community/competitions-events.html">Sign up to Owners Only</a></li>
+            
+                        </ul>
+                    
+                </div>
+            
+                <div class="huge-menu__column">
+                    <h2 class="h6"><a href="/home/our-community/community-tab.html">Community TAB</a></h2>
+            
+                        <ul class="hidden-xs">
+                            
+                <li><a href="/home/our-community/community-tab-345.html">Community TAB</a></li>
+            
+                <li><a href="/home/our-community/racing-industry.html">Racing Industry</a></li>
+            
+                <li><a href="/home/our-community/community-sport.html">Community Sport</a></li>
+            
+                <li><a href="/home/our-community/community-partnerships.html">Community Partnerships</a></li>
+            
+                <li><a href="/home/our-community/corporate-social-responsibility.html">Corporate Social Responsibility</a></li>
+            
+                        </ul>
+                    
+                </div>
+            
+                <div class="huge-menu__column">
+                    <h2 class="h6"><a href="/home/our-community/tabradio.html">TABradio</a></h2>
+            
+                        <ul class="hidden-xs">
+                            
+                <li><a href="/home/our-community/programme-schedules.html">Programme Schedules</a></li>
+            
+                <li><a href="/home/our-community/tuning-frequencies.html">Tuning Frequencies</a></li>
+            
+                        </ul>
+                    
+                </div>
+            
+                <div class="huge-menu__column">
+                    <h2 class="h6"><a href="/home/our-community/leap-lead-love.html">Leap Lead Love</a></h2>
+            
+                        <ul class="hidden-xs">
+                            
+                <li><a href="/home/our-community/leap-5514.html">Leap</a></li>
+            
+                <li><a href="/home/our-community/lead-5518.html">Lead</a></li>
+            
+                <li><a href="/home/our-community/love-5519.html">Love</a></li>
+            
+                        </ul>
+                    
+                </div>
+            
+                        </div>
+                        <!-- ****  END HUGE MENU **** -->
+                    
+                </li>
+            
+                <li>
+                    <a class="main-nav__link" href="/home/media-centre/default.html">
+                        MEDIA CENTRE
+                        <div class="main-nav__hover-zone hidden-xs">
+                            <img src="" alt="Chevron" class="huge-menu-chevron">
+                        </div>
+                    </a>
+                    <i class="visible-xs expand-menu-img fa fa-chevron-down"></i>
+                
+                        <!-- ****  HUGE MENU **** -->
+                        <div class="huge-menu">
+                            
+                <div class="huge-menu__column">
+                    <h2 class="h6"><a href="/home/media-centre/news.html">News</a></h2>
+            
+                </div>
+            
+                <div class="huge-menu__column">
+                    <h2 class="h6"><a href="/home/media-centre/image-galleries-291.html">Image Galleries</a></h2>
+            
+                </div>
+            
+                <div class="huge-menu__column">
+                    <h2 class="h6"><a href="/home/media-centre/publications.html">Publications</a></h2>
+            
+                </div>
+            
+                <div class="huge-menu__column">
+                    <h2 class="h6"><a href="/home/media-centre/rwwa-media-awards-111.html">RWWA Awards</a></h2>
+            
+                        <ul class="hidden-xs">
+                            
+                        </ul>
+                    
+                </div>
+            
+                <div class="huge-menu__column">
+                    <h2 class="h6"><a href="/home/media-centre/media-enquiries-7161.html">Media Enquiries</a></h2>
+            
+                </div>
+            
+                        </div>
+                        <!-- ****  END HUGE MENU **** -->
+                    
+                </li>
+            
+                <li>
+                    <a class="main-nav__link" href="/home/welfare/welfare.html">
+                        WELFARE
+                        <div class="main-nav__hover-zone hidden-xs">
+                            <img src="" alt="Chevron" class="huge-menu-chevron">
+                        </div>
+                    </a>
+                    <i class="visible-xs expand-menu-img fa fa-chevron-down"></i>
+                
+                        <!-- ****  HUGE MENU **** -->
+                        <div class="huge-menu">
+                            
+                <div class="huge-menu__column">
+                    <h2 class="h6"><a href="/home/welfare/greyhound-welfare-5822.html">Greyhound Welfare</a></h2>
+            
+                        <ul class="hidden-xs">
+                            
+                <li><a href="/home/welfare/breeding-5823.html">Breeding</a></li>
+            
+                <li><a href="/home/welfare/rearing-5824.html">Rearing</a></li>
+            
+                <li><a href="/home/welfare/racing-5825.html">Racing</a></li>
+            
+                <li><a href="/home/welfare/retirement-5826.html">Retirement</a></li>
+            
+                        </ul>
+                    
+                </div>
+            
+                <div class="huge-menu__column">
+                    <h2 class="h6"><a href="/home/welfare/equine-welfare-5821.html">Equine Welfare</a></h2>
+            
+                        <ul class="hidden-xs">
+                            
+                <li><a href="/home/welfare/breeding-6232.html">Breeding</a></li>
+            
+                <li><a href="/home/welfare/educating-6233.html">Educating</a></li>
+            
+                <li><a href="/home/welfare/racing-6234.html">Racing</a></li>
+            
+                <li><a href="/home/welfare/retirement-6235.html">Retirement</a></li>
+            
+                        </ul>
+                    
+                </div>
+            
+                <div class="huge-menu__column">
+                    <h2 class="h6"><a href="/home/welfare/industry-welfare-8166.html">Industry Welfare</a></h2>
+            
+                        <ul class="hidden-xs">
+                            
+                <li><a href="/home/welfare/racing-assist-8169.html">Racing Assist</a></li>
+            
+                <li><a href="/home/welfare/jockey-assist-8170.html">Jockey Assist</a></li>
+            
+                        </ul>
+                    
+                </div>
+            
+                        </div>
+                        <!-- ****  END HUGE MENU **** -->
+                    
+                </li>
+            
+                <li>
+                    <a class="main-nav__link" href="/home/about/default.html">
+                        ABOUT
+                        <div class="main-nav__hover-zone hidden-xs">
+                            <img src="" alt="Chevron" class="huge-menu-chevron">
+                        </div>
+                    </a>
+                    <i class="visible-xs expand-menu-img fa fa-chevron-down"></i>
+                
+                        <!-- ****  HUGE MENU **** -->
+                        <div class="huge-menu">
+                            
+                <div class="huge-menu__column">
+                    <h2 class="h6"><a href="/home/about/about-us.html">About Us</a></h2>
+            
+                </div>
+            
+                <div class="huge-menu__column">
+                    <h2 class="h6"><a href="/home/about/governance.html">Governance</a></h2>
+            
+                        <ul class="hidden-xs">
+                            
+                <li><a href="/home/about/rwwa-board.html">RWWA Board</a></li>
+            
+                <li><a href="/home/about/rwwa-executive-team.html">RWWA Executive Team</a></li>
+            
+                <li><a href="/home/about/public-interest-disclosure.html">Public Interest Disclosure</a></li>
+            
+                <li><a href="/home/about/rwwa-s-corporate-governance-disclosure.html">Corporate Governance Disclosure</a></li>
+            
+                        </ul>
+                    
+                </div>
+            
+                <div class="huge-menu__column">
+                    <h2 class="h6"><a href="/home/about/corporate.html">Corporate</a></h2>
+            
+                        <ul class="hidden-xs">
+                            
+                <li><a href="/home/about/corporate-reports.html">Corporate Reports</a></li>
+            
+                <li><a href="/home/about/corporate-social-responsibility-132.html">Corporate Social Responsibility</a></li>
+            
+                        </ul>
+                    
+                </div>
+            
+                <div class="huge-menu__column">
+                    <h2 class="h6"><a href="/home/about/history.html">History</a></h2>
+            
+                        <ul class="hidden-xs">
+                            
+                <li><a href="/home/about/thoroughbred-history.html">Thoroughbred History</a></li>
+            
+                <li><a href="/home/about/harness-history.html">Harness History</a></li>
+            
+                <li><a href="/home/about/greyhound-history.html">Greyhound History</a></li>
+            
+                        </ul>
+                    
+                </div>
+            
+                <div class="huge-menu__column">
+                    <h2 class="h6"><a href="/home/about/contact.html">Contact</a></h2>
+            
+                        <ul class="hidden-xs">
+                            
+                <li><a href="/home/about/racing-contacts.html">Racing Contacts</a></li>
+            
+                <li><a href="/home/about/wagering-contacts.html">Wagering Contacts</a></li>
+            
+                        </ul>
+                    
+                </div>
+            
+                <div class="huge-menu__column">
+                    <h2 class="h6"><a href="/home/about/careers.html">Careers</a></h2>
+            
+                        <ul class="hidden-xs">
+                            
+                <li><a href="/home/about/working-at-rwwa.html">Working at RWWA</a></li>
+            
+                <li><a href="/home/about/career-opportunities.html">Careers In Racing</a></li>
+            
+                <li><a href="/home/about/job-opportunities.html">Job Opportunities</a></li>
+            
+                        </ul>
+                    
+                </div>
+            
+                        </div>
+                        <!-- ****  END HUGE MENU **** -->
+                    
+                </li>
+            
+							</ul>
+							<script>
+    							$(function() {
+                                    $('img.huge-menu-chevron', this).attr('src', '/CRIS/assets/images/structural/arrow-huge-menu.png');
+    							});
+							</script>
+						</nav>
+					</div>
+				</div>
+			</div>
+		</header>
+    <!-- HEADER : END -->
+    <section>
+          <div class="container">
+            <div class="row breadcrumbs">
+              <a href="/home/default.html" class="breadcrumbs__link">Home</a> <span class="breadcrumbs__space">&gt;</span> <a href="/home/racing/default.html" class="breadcrumbs__link">Racing</a> <span class="breadcrumbs__space">&gt;</span> <a href="/home/racing/thoroughbred-hub.html" class="breadcrumbs__link">Thoroughbred Hub</a> <span class="breadcrumbs__space">&gt;</span> <a href="/CRIS/" class="breadcrumbs__link">CRIS</a>
+            </div>
+    	    
+          </div>
+    </section>
+
+
+<!-- MAIN CONTENT REGION : START -->
+    <style>
+.cris-ad-banner img  {
+    width: 100%;
+}
+#leftBanner,#rightBanner {
+    margin: 0px auto;
+    width: 100%;
+    max-width: 1170px;
+}
+@media (max-width: 767px) {
+  .cris-ad-banner {margin-bottom: 15px;}
+}
+@media (min-width: 1470px) {
+  div#leftBanner:before {
+      height: 600px;
+      width: 120px;
+      background: url('/CRIS/assets/images/TABtouchSports-promo120x600.jpg');
+      content: '';
+      display: block;
+      float: left;
+      margin-left: -140px;
+      margin-top: 15px;
+      position: relative;
+  }
+  div#rightBanner:before {
+      height: 600px;
+      width: 120px;
+      background: url('/CRIS/assets/images/TABtouchSports-promo120x600.jpg');
+      content: '';
+      display: block;
+      float: right;
+      margin-right: -140px;
+      margin-top: 15px;
+      position: relative;
+  }
+}
+</style>
+<div class="container">
+    <div class="row cris-ad-banner">
+    	<div class="col-xs-12">
+            
+                            <a href="https://www.tabtouch.com.au/betteryourclub?cid=odsp-als-sgp-bra-cris-1-sb-ima-byc-25022019&rwid=rwwa" target="_blank">
+                                <img src="/CRIS/assets/images/TABtouchSports-promo1140x106.jpg" alt="Better Your Club" class="hidden-xs">
+                            	<img src="/CRIS/assets/images/TABtouchSports-promo688x215.jpg" alt="Better Your Club" class="visible-xs-block">
+                            </a>
+                            
+        </div>
+	</div>
+</div>
+
+                <a href="https://www.tabtouch.com.au/betteryourclub?cid=odsp-als-sgp-bra-cris-1-sb-ima-byc-25022019&rwid=rwwa" target="_blank"><div id="leftBanner"></div><div id="rightBanner"></div></a>
+                      
+
+    <div id="divMainBody" class="wrapper">
+        <div class="open-decoration">
+            <div class="close-decoration">
+                <div class="content-offset">
+                    
+                    <div id="divAppRegion"> <!-- #divMajor -->
+                        <div class="jolt-left">
+                            <form name="aspnetForm" method="post" action="./raceresults.aspx?meeting=17184&amp;race=1&amp;fixtureid=pr" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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dGVkIGl0cyBhYmlsaXR5IHRvIGZpbmlzaCB0aGUgcmFjZSBvZmYgc3Ryb25nbHkuIENIQVNJTkcgQ0hBT1MgQSBwb3N0LXJhY2UgVmV0ZXJpbmFyeSBleGFtaW5hdGlvbiBvZiB0aGUgdW5wbGFjZWQgZ2VsZGluZyByZXZlYWxlZCBubyBhYm5vcm1hbGl0aWVzLiBTTElDSyBUQUxLRVIgSW1wZWRlZCBmcm9tIG9uIHN0cmFpZ2h0ZW5pbmcgdW50aWwgdGFrZW4gaW53YXJkcyBhcHByb2FjaGluZyB0aGUgMTUwLiBJIERPTkUgSVQgUmFjZWQga2Vlbmx5IHRocm91Z2ggdGhlIGVhcmx5IHN0YWdlcyBhbmQgd2FzIGFsbG93ZWQgdG8gc3RyaWRlIGZvcndhcmQgdG8gY2hhbGxlbmdlIHRoZSBsZWFkZXIgYW5kIGNvbnNlcXVlbnRseSBlc3RhYmxpc2hlZCBhIGNvbnNpZGVyYWJsZSBtYXJnaW4gb3ZlciB0aGUgYmFsYW5jZSBvZiB0aGUgZmllbGQgaW4gdGhlIGVhcmx5IHN0YWdlcy4gQSBwb3N0LXJhY2UgVmV0ZXJpbmFyeSBleGFtaW5hdGlvbiBvZiB0aGUgdW5wbGFjZWQgZ2VsZGluZyByZXZlYWxlZCBubyBhYm5vcm1hbGl0aWVzLiBSVUxJTkcgQU5HRUwgSW1wZWRlZCBmb3IgYSBzaG9ydCBkaXN0YW5jZSBvbiBzdHJhaWdodGVuaW5nLiBkZAITD2QWAmYPZBYCZg9kFgJmDw8WAh8CBRFSZXN1bHRzIGZvciByYWNlOmRkAhUPDxYCHwgFK34vbWVldGluZ2Rvd25sb2FkLmFzcHg/bWVldGluZz0xNzE4NCZyYWNlPTFkZAIXDw8WAh8IBSV+L2Zvcm1ndWlkZS5hc3B4P21lZXRpbmc9MTcxODQmcmFjZT0xZGQCGQ8PFgIfCAU3fi9wcmludC5hc3B4P3Q9bWVldGluZyZ2aWV3PXJlc3VsdCZtZWV0aW5nPTE3MTg0JnJhY2U9MWRkAhsPDxYCHwgFJX4vcmFjZWZpZWxkLmFzcHg/bWVldGluZz0xNzE4NCZyYWNlPTFkZAIdDxYCHwNnFgICAQ8PFgIfCAUyfi9yYWNlcmVzdWx0cy5hc3B4P21lZXRpbmc9MTcxODQmcmFjZT0xJnBob3RvPXRydWVkFgICAQ8PFgIfAgURU2hvdyBQaG90byBGaW5pc2hkZAIfDxYCHwNnFgICAQ8PFgQfCAUBfh8DZxYCHgdvbmNsaWNrBckBdmlkZW9Qb3B1cCgnSm5KbGNHeGhlVlZ5YkQxb2RIUndPaTh2YldWa2FXRnlkM2RoTG5OcmVYSmhZMmx1Wnk1amIyMHVZWFV2VW1GalpWOVNaWEJzWVhrdk1qQXhOeTh4TWk4eU1ERTNNVEl3TWtGVFExSXdNVjlXTG0xd05DWjJaVzUxWlQxQlUwTlBWQ1p5WVdObFJHRjBaVDB5TURFM0xURXlMVEF5Sm5KaFkyVk9kVzA5TVE9PScpOyByZXR1cm4gZmFsc2U7ZAIhDxYCHwNnFgICAQ8PFgQeBlRhcmdldAULdHRvbG5yYWNpbmcfCAUyaHR0cHM6Ly93d3cudGFidG91Y2guY29tLmF1L3JhY2luZy8yMDE3LTEyLTAyL3ByLzFkZBgBBSxjdGwwMCRDb250ZW50UGxhY2VIb2xkZXJNYWluJGdyaWRWaWV3UmVzdWx0cw88KwAMAQgCAWSviXS5U0GkW1R05bMADM9ZBn2t+g==" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="5A97D2C9" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdABRUt3cDeLQZ3Pki6ErLEEuDlk57Z8y4HbGYfBlxzuO/WmW7VeQvszcvgKbQjg6UWYWkH9SjFKwK0cCScF+073qI4MD0pjoWfvPGMrQAcBwiERYEvj+hLW4k7OetjbpuffF5xz5Q+HtjDpFbWTFIIhE7k74QlDux/h6FZtcTQWn8DHXyw+v8oA9MiNyhUfjQimllEaGu9I+snL40e5HRfD+rAk5lmMHrVis6vkskxdTlSKeJxH+PROIswuZrz3hJUCNQMk6NJytX4b8L0gpWjvEj2ItZqQl68owpsQhHXvwMbaMMu7cKPI9jcL8xDIqcRX+pSMcmGUDQGdjV2aJulWA/2ZV1LlS9hIMzBI+gfXllps92ufShiOp+T2JrKU4PZKkniDHC0tJkGTcMeP75R4tL/dupZMo/VwPHizulVROPhB/MlAFSXtEeULZdEAjnO8QYeBm4" />
+                              
+
+<h2><acronym title="Customer Racing Information Service">CRIS</acronym>: Race Results</h2>
+ 
+<a id="topanc" name='top'></a>
+<h3>
+    <span id="ctl00_ContentPlaceHolderMain_labelHeading">Results for Race 1, ASCOT, Saturday 02/12/2017</span>
+    <span class="asat"><span id="ctl00_ContentPlaceHolderMain_labelAsAt">(as at 2/12/2017 1:19 PM)</span></span>
+</h3>
+
+<table id="ctl00_ContentPlaceHolderMain_raceDetailControlInstance_tableRaceDetails" class="tbldetails" border="0">
+	<tr id="ctl00_ContentPlaceHolderMain_raceDetailControlInstance_rowHeader" class="raceheading">
+		<th>
+    Race&nbsp;
+    <select name="ctl00$ContentPlaceHolderMain$raceDetailControlInstance$dropDownListRaceList" id="ctl00_ContentPlaceHolderMain_raceDetailControlInstance_dropDownListRaceList">
+			<option selected="selected" value="~/raceresults.aspx?meeting=17184&amp;race=1">1</option>
+			<option value="~/raceresults.aspx?meeting=17184&amp;race=2">2</option>
+			<option value="~/raceresults.aspx?meeting=17184&amp;race=3">3</option>
+			<option value="~/raceresults.aspx?meeting=17184&amp;race=4">4</option>
+			<option value="~/raceresults.aspx?meeting=17184&amp;race=5">5</option>
+			<option value="~/raceresults.aspx?meeting=17184&amp;race=6">6</option>
+			<option value="~/raceresults.aspx?meeting=17184&amp;race=7">7</option>
+			<option value="~/raceresults.aspx?meeting=17184&amp;race=8">8</option>
+
+		</select>
+    &nbsp;
+    <span id="ctl00_ContentPlaceHolderMain_raceDetailControlInstance_labelRaceTime">1:04&nbsp;PM</span></th><th id="ctl00_ContentPlaceHolderMain_raceDetailControlInstance_cellRaceDescription">TABTOUCH HANDICAP<br/> 3 YEARS OLD & UPWARDS (Ratings Race 66+)</th>
+	</tr><tr id="ctl00_ContentPlaceHolderMain_raceDetailControlInstance_rowPrizePool">
+		<td><b>Prize Money:</b></td><td id="ctl00_ContentPlaceHolderMain_raceDetailControlInstance_cellPrizePool">Of: $60,000; 1st:&nbsp;$36,000; 2nd:&nbsp;$12,000; 3rd:&nbsp;$5,400; 4th:&nbsp;$2,400; 5th:&nbsp;$1,200; 6th:&nbsp;$600; 7th:&nbsp;$600; 8th:&nbsp;$600; 9th:&nbsp;$600; 10th:&nbsp;$600</td>
+	</tr><tr id="ctl00_ContentPlaceHolderMain_raceDetailControlInstance_rowDistanceWeight">
+		<td><b>Distance and Weight:</b></td><td id="ctl00_ContentPlaceHolderMain_raceDetailControlInstance_cellDistanceWeight">1600 metres, minimum 54 kg</td>
+	</tr><tr id="ctl00_ContentPlaceHolderMain_raceDetailControlInstance_rowRbh">
+		<td><b>RBH:</b></td><td id="ctl00_ContentPlaceHolderMain_raceDetailControlInstance_cellRbh">METRO   - 3UP 66+ 66+</td>
+	</tr>
+</table>
+
+
+
+<table id="ctl00_ContentPlaceHolderMain_tableResults" class="tbldetails" border="0">
+	<tr>
+		<th>Weather</th><th>Rail</th><th>Cond.</th><th>Judge Nos</th><th>Time</th><th>Dividends</th>
+	</tr><tr>
+		<td id="ctl00_ContentPlaceHolderMain_weatherCell">Fine</td><td id="ctl00_ContentPlaceHolderMain_railCell">6m</td><td id="ctl00_ContentPlaceHolderMain_ratingCell">Good4</td><td id="ctl00_ContentPlaceHolderMain_judgeCell">2 1 8 9 4 </td><td id="ctl00_ContentPlaceHolderMain_timeCell">01:36:18 (600m: 35:68   )</td><td id="ctl00_ContentPlaceHolderMain_dividendCell">Win: $3.60 Place: $1.70 $1.80 $1.60</td>
+	</tr>
+</table>
+
+
+
+<div>
+	<table class="tblcris tbldata" cellspacing="0" rules="all" border="1" id="ctl00_ContentPlaceHolderMain_gridViewResults">
+		<tr>
+			<th rowspan="2" scope="col"><a href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolderMain$gridViewResults&#39;,&#39;Sort$PLACE_FINISH&#39;)">Pl</a></th><th rowspan="2" scope="col"><a href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolderMain$gridViewResults&#39;,&#39;Sort$REAL_START_PRICE&#39;)">Start Price</a></th><th rowspan="2" scope="col"><a href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolderMain$gridViewResults&#39;,&#39;Sort$HORSE_NAME&#39;)">Horse</a></th><th title="Blinkers" rowspan="2" scope="col" abbr="Blinkers">Bl</th><th title="Barrier" rowspan="2" scope="col" abbr="Barrier"><a href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolderMain$gridViewResults&#39;,&#39;Sort$BARRIER&#39;)">Br</a></th><th colspan="2">Weight</th><th rowspan="2" scope="col">Rider</th><th rowspan="2" scope="col">Trainer</th><th colspan="3">Placing</th><th rowspan="2" scope="col">Margin</th><th title="Time Run" rowspan="2" scope="col" abbr="Time Run">Time</th><th title="600m Time" rowspan="2" scope="col" abbr="600m Time"><a href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolderMain$gridViewResults&#39;,&#39;Sort$TIME_600&#39;)">600m</a></th>
+		</tr><tr>
+			<th title="Declared Weight" scope="col" abbr="Declared Weight"><a href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolderMain$gridViewResults&#39;,&#39;Sort$DECLARED_WEIGHT&#39;)">Dcl</a></th><th title="Carried Weight" scope="col" abbr="Carried Weight"><a href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolderMain$gridViewResults&#39;,&#39;Sort$WEIGHT_CARRIED&#39;)">Crd</a></th><th title="Settled Placing" scope="col" abbr="Settled Placing"><a href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolderMain$gridViewResults&#39;,&#39;Sort$PLACE_SETTLED&#39;)">Stl</a></th><th title="800m Placing" scope="col" abbr="800m Placing"><a href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolderMain$gridViewResults&#39;,&#39;Sort$PLACE_800&#39;)">800</a></th><th title="Turn Placing" scope="col" abbr="Turn Placing"><a href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolderMain$gridViewResults&#39;,&#39;Sort$PLACE_TURN&#39;)">Trn</a></th>
+		</tr><tr>
+			<td>
+                <span id="ctl00_ContentPlaceHolderMain_gridViewResults_ctl02_labelPlace">1</span>
+            </td><td>$3.50</td><td><a href="horse.aspx?horse=77597">TOUCH OF SILVER</a></td><td> </td><td>9</td><td>59</td><td>
+                <span id="ctl00_ContentPlaceHolderMain_gridViewResults_ctl02_labelCarried">57.5</span>
+            </td><td><a href="rider.aspx?rider=752562">CLINT JOHNSTON-PORTER</a></td><td>
+                <a id="ctl00_ContentPlaceHolderMain_gridViewResults_ctl02_hyperLinkTrainer" href="trainer.aspx?trainer=715332">ADAM DURRANT</a>
+            </td><td>
+                <span id="ctl00_ContentPlaceHolderMain_gridViewResults_ctl02_labelPlaceSettled">9</span>
+            </td><td>
+                <span id="ctl00_ContentPlaceHolderMain_gridViewResults_ctl02_labelPlace800">9</span>
+            </td><td>
+                <span id="ctl00_ContentPlaceHolderMain_gridViewResults_ctl02_labelPlaceTurn">9</span>
+            </td><td>
+                <span id="ctl00_ContentPlaceHolderMain_gridViewResults_ctl02_labelMargin"></span>
+            </td><td>
+                <span id="ctl00_ContentPlaceHolderMain_gridViewResults_ctl02_labelTimeRun">01:36:18</span>
+            </td><td>
+                <span id="ctl00_ContentPlaceHolderMain_gridViewResults_ctl02_labelTime600">34:66   </span>
+            </td>
+		</tr><tr class="alt">
+			<td>
+                <span id="ctl00_ContentPlaceHolderMain_gridViewResults_ctl03_labelPlace">2</span>
+            </td><td>$4.60</td><td><a href="horse.aspx?horse=77897">SEE ME SIZZLE</a></td><td> </td><td>3</td><td>60</td><td>
+                <span id="ctl00_ContentPlaceHolderMain_gridViewResults_ctl03_labelCarried">57</span>
+            </td><td><a href="rider.aspx?rider=756138">MADDISON BROWN</a></td><td>
+                <a id="ctl00_ContentPlaceHolderMain_gridViewResults_ctl03_hyperLinkTrainer" href="trainer.aspx?trainer=761276">GRANT & ALANA WILLIAMS</a>
+            </td><td>
+                <span id="ctl00_ContentPlaceHolderMain_gridViewResults_ctl03_labelPlaceSettled">1</span>
+            </td><td>
+                <span id="ctl00_ContentPlaceHolderMain_gridViewResults_ctl03_labelPlace800">1</span>
+            </td><td>
+                <span id="ctl00_ContentPlaceHolderMain_gridViewResults_ctl03_labelPlaceTurn">1</span>
+            </td><td>
+                <span id="ctl00_ContentPlaceHolderMain_gridViewResults_ctl03_labelMargin">3/4 L</span>
+            </td><td>
+                <span id="ctl00_ContentPlaceHolderMain_gridViewResults_ctl03_labelTimeRun">01:36:28</span>
+            </td><td>
+                <span id="ctl00_ContentPlaceHolderMain_gridViewResults_ctl03_labelTime600">35:78   </span>
+            </td>
+		</tr><tr>
+			<td>
+                <span id="ctl00_ContentPlaceHolderMain_gridViewResults_ctl04_labelPlace">3</span>
+            </td><td>$4.80</td><td><a href="horse.aspx?horse=80237">NO SAY IN IT</a></td><td> </td><td>4</td><td>54</td><td>
+                <span id="ctl00_ContentPlaceHolderMain_gridViewResults_ctl04_labelCarried"></span>
+            </td><td><a href="rider.aspx?rider=754767">DEAN YENDALL</a></td><td>
+                <a id="ctl00_ContentPlaceHolderMain_gridViewResults_ctl04_hyperLinkTrainer" href="trainer.aspx?trainer=204535">LINDSEY SMITH</a>
+            </td><td>
+                <span id="ctl00_ContentPlaceHolderMain_gridViewResults_ctl04_labelPlaceSettled">5</span>
+            </td><td>
+                <span id="ctl00_ContentPlaceHolderMain_gridViewResults_ctl04_labelPlace800">6</span>
+            </td><td>
+                <span id="ctl00_ContentPlaceHolderMain_gridViewResults_ctl04_labelPlaceTurn">5</span>
+            </td><td>
+                <span id="ctl00_ContentPlaceHolderMain_gridViewResults_ctl04_labelMargin">1 1/2 L</span>
+            </td><td>
+                <span id="ctl00_ContentPlaceHolderMain_gridViewResults_ctl04_labelTimeRun">01:36:42</span>
+            </td><td>
+                <span id="ctl00_ContentPlaceHolderMain_gridViewResults_ctl04_labelTime600">35:32   </span>
+            </td>
+		</tr><tr class="alt">
+			<td>
+                <span id="ctl00_ContentPlaceHolderMain_gridViewResults_ctl05_labelPlace">4</span>
+            </td><td>$11</td><td><a href="horse.aspx?horse=77987">RULING ANGEL</a></td><td>B</td><td>8</td><td>54</td><td>
+                <span id="ctl00_ContentPlaceHolderMain_gridViewResults_ctl05_labelCarried"></span>
+            </td><td><a href="rider.aspx?rider=566354">SHAUN O'DONNELL</a></td><td>
+                <a id="ctl00_ContentPlaceHolderMain_gridViewResults_ctl05_hyperLinkTrainer" href="trainer.aspx?trainer=703083">JUSTINE ERKELENS</a>
+            </td><td>
+                <span id="ctl00_ContentPlaceHolderMain_gridViewResults_ctl05_labelPlaceSettled">8</span>
+            </td><td>
+                <span id="ctl00_ContentPlaceHolderMain_gridViewResults_ctl05_labelPlace800">8</span>
+            </td><td>
+                <span id="ctl00_ContentPlaceHolderMain_gridViewResults_ctl05_labelPlaceTurn">7</span>
+            </td><td>
+                <span id="ctl00_ContentPlaceHolderMain_gridViewResults_ctl05_labelMargin">2 1/2 L</span>
+            </td><td>
+                <span id="ctl00_ContentPlaceHolderMain_gridViewResults_ctl05_labelTimeRun">01:36:58</span>
+            </td><td>
+                <span id="ctl00_ContentPlaceHolderMain_gridViewResults_ctl05_labelTime600">35:28   </span>
+            </td>
+		</tr><tr>
+			<td>
+                <span id="ctl00_ContentPlaceHolderMain_gridViewResults_ctl06_labelPlace">5</span>
+            </td><td>$41</td><td><a href="horse.aspx?horse=70921">WOODSVILLE</a></td><td> </td><td>6</td><td>56</td><td>
+                <span id="ctl00_ContentPlaceHolderMain_gridViewResults_ctl06_labelCarried"></span>
+            </td><td><a href="rider.aspx?rider=730587">BRAD PARNHAM</a></td><td>
+                <a id="ctl00_ContentPlaceHolderMain_gridViewResults_ctl06_hyperLinkTrainer" href="trainer.aspx?trainer=721043">BRIAN KERSLEY</a>
+            </td><td>
+                <span id="ctl00_ContentPlaceHolderMain_gridViewResults_ctl06_labelPlaceSettled">3</span>
+            </td><td>
+                <span id="ctl00_ContentPlaceHolderMain_gridViewResults_ctl06_labelPlace800">3</span>
+            </td><td>
+                <span id="ctl00_ContentPlaceHolderMain_gridViewResults_ctl06_labelPlaceTurn">4</span>
+            </td><td>
+                <span id="ctl00_ContentPlaceHolderMain_gridViewResults_ctl06_labelMargin">2 1/2 L</span>
+            </td><td>
+                <span id="ctl00_ContentPlaceHolderMain_gridViewResults_ctl06_labelTimeRun">01:36:59</span>
+            </td><td>
+                <span id="ctl00_ContentPlaceHolderMain_gridViewResults_ctl06_labelTime600">35:86   </span>
+            </td>
+		</tr><tr class="alt">
+			<td>
+                <span id="ctl00_ContentPlaceHolderMain_gridViewResults_ctl07_labelPlace">6</span>
+            </td><td>$14</td><td><a href="horse.aspx?horse=78912">DUSHA ZACHISTKI</a></td><td> </td><td>7</td><td>54</td><td>
+                <span id="ctl00_ContentPlaceHolderMain_gridViewResults_ctl07_labelCarried"></span>
+            </td><td><a href="rider.aspx?rider=761185">LEE NEWMAN</a></td><td>
+                <a id="ctl00_ContentPlaceHolderMain_gridViewResults_ctl07_hyperLinkTrainer" href="trainer.aspx?trainer=745657">KIERAN MCDONAGH</a>
+            </td><td>
+                <span id="ctl00_ContentPlaceHolderMain_gridViewResults_ctl07_labelPlaceSettled">7</span>
+            </td><td>
+                <span id="ctl00_ContentPlaceHolderMain_gridViewResults_ctl07_labelPlace800">7</span>
+            </td><td>
+                <span id="ctl00_ContentPlaceHolderMain_gridViewResults_ctl07_labelPlaceTurn">8</span>
+            </td><td>
+                <span id="ctl00_ContentPlaceHolderMain_gridViewResults_ctl07_labelMargin">2 3/4 L</span>
+            </td><td>
+                <span id="ctl00_ContentPlaceHolderMain_gridViewResults_ctl07_labelTimeRun">01:36:61</span>
+            </td><td>
+                <span id="ctl00_ContentPlaceHolderMain_gridViewResults_ctl07_labelTime600">35:31   </span>
+            </td>
+		</tr><tr>
+			<td>
+                <span id="ctl00_ContentPlaceHolderMain_gridViewResults_ctl08_labelPlace">7</span>
+            </td><td>$14</td><td><a href="horse.aspx?horse=77016">SLICK TALKER</a></td><td>V</td><td>1</td><td>55</td><td>
+                <span id="ctl00_ContentPlaceHolderMain_gridViewResults_ctl08_labelCarried"></span>
+            </td><td><a href="rider.aspx?rider=747259">JOSEPH AZZOPARDI</a></td><td>
+                <a id="ctl00_ContentPlaceHolderMain_gridViewResults_ctl08_hyperLinkTrainer" href="trainer.aspx?trainer=203385">DAVID HARRISON</a>
+            </td><td>
+                <span id="ctl00_ContentPlaceHolderMain_gridViewResults_ctl08_labelPlaceSettled">6</span>
+            </td><td>
+                <span id="ctl00_ContentPlaceHolderMain_gridViewResults_ctl08_labelPlace800">5</span>
+            </td><td>
+                <span id="ctl00_ContentPlaceHolderMain_gridViewResults_ctl08_labelPlaceTurn">6</span>
+            </td><td>
+                <span id="ctl00_ContentPlaceHolderMain_gridViewResults_ctl08_labelMargin">3 L</span>
+            </td><td>
+                <span id="ctl00_ContentPlaceHolderMain_gridViewResults_ctl08_labelTimeRun">01:36:66</span>
+            </td><td>
+                <span id="ctl00_ContentPlaceHolderMain_gridViewResults_ctl08_labelTime600">35:64   </span>
+            </td>
+		</tr><tr class="alt">
+			<td>
+                <span id="ctl00_ContentPlaceHolderMain_gridViewResults_ctl09_labelPlace">8</span>
+            </td><td>$7</td><td><a href="horse.aspx?horse=75985">CHASING CHAOS</a></td><td>X</td><td>2</td><td>57.5</td><td>
+                <span id="ctl00_ContentPlaceHolderMain_gridViewResults_ctl09_labelCarried"></span>
+            </td><td><a href="rider.aspx?rider=721097">SHAUN MC GRUDDY</a></td><td>
+                <a id="ctl00_ContentPlaceHolderMain_gridViewResults_ctl09_hyperLinkTrainer" href="trainer.aspx?trainer=220863">STEVE WOLFE</a>
+            </td><td>
+                <span id="ctl00_ContentPlaceHolderMain_gridViewResults_ctl09_labelPlaceSettled">4</span>
+            </td><td>
+                <span id="ctl00_ContentPlaceHolderMain_gridViewResults_ctl09_labelPlace800">4</span>
+            </td><td>
+                <span id="ctl00_ContentPlaceHolderMain_gridViewResults_ctl09_labelPlaceTurn">3</span>
+            </td><td>
+                <span id="ctl00_ContentPlaceHolderMain_gridViewResults_ctl09_labelMargin">4 L</span>
+            </td><td>
+                <span id="ctl00_ContentPlaceHolderMain_gridViewResults_ctl09_labelTimeRun">01:36:81</span>
+            </td><td>
+                <span id="ctl00_ContentPlaceHolderMain_gridViewResults_ctl09_labelTime600">35:96   </span>
+            </td>
+		</tr><tr>
+			<td>
+                <span id="ctl00_ContentPlaceHolderMain_gridViewResults_ctl10_labelPlace">9</span>
+            </td><td>$41</td><td><a href="horse.aspx?horse=75740">I DONE IT</a></td><td>X</td><td>5</td><td>54</td><td>
+                <span id="ctl00_ContentPlaceHolderMain_gridViewResults_ctl10_labelCarried">51</span>
+            </td><td><a href="rider.aspx?rider=751172">KATE FITZGERALD</a></td><td>
+                <a id="ctl00_ContentPlaceHolderMain_gridViewResults_ctl10_hyperLinkTrainer" href="trainer.aspx?trainer=754687">MARTIN ALLAN</a>
+            </td><td>
+                <span id="ctl00_ContentPlaceHolderMain_gridViewResults_ctl10_labelPlaceSettled">2</span>
+            </td><td>
+                <span id="ctl00_ContentPlaceHolderMain_gridViewResults_ctl10_labelPlace800">2</span>
+            </td><td>
+                <span id="ctl00_ContentPlaceHolderMain_gridViewResults_ctl10_labelPlaceTurn">2</span>
+            </td><td>
+                <span id="ctl00_ContentPlaceHolderMain_gridViewResults_ctl10_labelMargin">8 L</span>
+            </td><td>
+                <span id="ctl00_ContentPlaceHolderMain_gridViewResults_ctl10_labelTimeRun">01:37:45</span>
+            </td><td>
+                <span id="ctl00_ContentPlaceHolderMain_gridViewResults_ctl10_labelTime600">36:81   </span>
+            </td>
+		</tr>
+	</table>
+</div>
+
+<h4 id="ctl00_ContentPlaceHolderMain_headerStewards">Stewards Comments</h4>
+<p><span id="ctl00_ContentPlaceHolderMain_labelStewardsComments">SEE ME SIZZLE Raced keenly through the early stages and was challenged by another runner and consequently did not settle which had detrimentally affected its ability to finish the race off strongly. CHASING CHAOS A post-race Veterinary examination of the unplaced gelding revealed no abnormalities. SLICK TALKER Impeded from on straightening until taken inwards approaching the 150. I DONE IT Raced keenly through the early stages and was allowed to stride forward to challenge the leader and consequently established a considerable margin over the balance of the field in the early stages. A post-race Veterinary examination of the unplaced gelding revealed no abnormalities. RULING ANGEL Impeded for a short distance on straightening. </span></p>
+
+<table id="ctl00_ContentPlaceHolderMain_raceSelectorInstance_tableRaceSelector" class="tbldetails autowidth no-print" border="0">
+	<tr id="ctl00_ContentPlaceHolderMain_raceSelectorInstance_rowRaceSelector" class="racenumber">
+		<th id="ctl00_ContentPlaceHolderMain_raceSelectorInstance_headerRaceSelector">Results for race:</th><td>1</td><td><a href="raceresults.aspx?meeting=17184&amp;race=2">2</a></td><td><a href="raceresults.aspx?meeting=17184&amp;race=3">3</a></td><td><a href="raceresults.aspx?meeting=17184&amp;race=4">4</a></td><td><a href="raceresults.aspx?meeting=17184&amp;race=5">5</a></td><td><a href="raceresults.aspx?meeting=17184&amp;race=6">6</a></td><td><a href="raceresults.aspx?meeting=17184&amp;race=7">7</a></td><td><a href="raceresults.aspx?meeting=17184&amp;race=8">8</a></td><td><a href="meeting.aspx?meeting=17184">Return to Meeting</a></td>
+	</tr>
+</table>
+
+
+<ul class="crisoptions">
+      <li><a id="ctl00_ContentPlaceHolderMain_hyperLinkDownload" class="imglink" href="meetingdownload.aspx?meeting=17184&amp;race=1"><img src="images/download.gif" width="21" height="17" alt="Down arrow - race download" title="Race Download" class="middle padimage" /><span>Race Download</span></a></li>
+      <li><a id="ctl00_ContentPlaceHolderMain_hyperLinkFormGuide" class="imglink" href="formguide.aspx?meeting=17184&amp;race=1"><img src="images/print.gif" width="23" height="17" alt="Printer - form guide" title="Form Guide" class="middle padimage" /><span>Form Guide</span></a></li>
+      <li><a id="ctl00_ContentPlaceHolderMain_hyperLinkPrintResults" class="imglink" href="print.aspx?t=meeting&amp;view=result&amp;meeting=17184&amp;race=1" target="_blank"><img src="images/print.gif" width="23" height="17" alt="Printer - print results" title="Print Results" class="middle padimage" /><span>Print Results</span></a></li>
+	  <li><a id="ctl00_ContentPlaceHolderMain_hyperLinkRaceField" class="imglink" href="racefield.aspx?meeting=17184&amp;race=1"><img src="images/field.gif" width="27" height="17" alt="Horse - race field" title="Race Field" class="middle padimage" /><span>Race Field</span></a></li>
+	
+        <li>
+            <a id="ctl00_ContentPlaceHolderMain_hyperLinkTogglePhoto" class="imglink" href="raceresults.aspx?meeting=17184&amp;race=1&amp;photo=true"><img src="images/camera.gif" width="23" height="17" alt="Camera - photo finish" title="Photo Finish" class="middle padimage" /><span id="ctl00_ContentPlaceHolderMain_labelTogglePhoto">Show Photo Finish</span></a>
+        </li>
+    
+    
+        <li id="rrply">
+            <a id="ctl00_ContentPlaceHolderMain_hyperLinkRaceReplay" class="imglink" onclick="videoPopup(&#39;JnJlcGxheVVybD1odHRwOi8vbWVkaWFyd3dhLnNreXJhY2luZy5jb20uYXUvUmFjZV9SZXBsYXkvMjAxNy8xMi8yMDE3MTIwMkFTQ1IwMV9WLm1wNCZ2ZW51ZT1BU0NPVCZyYWNlRGF0ZT0yMDE3LTEyLTAyJnJhY2VOdW09MQ==&#39;); return false;" href="./"><img src="images/play.png" id="ctl00_ContentPlaceHolderMain_Img1" width="23" height="17" alt="Race Replay" title="Race Replay" class="middle padimage" /><span id="ctl00_ContentPlaceHolderMain_label1">Race Replay</span></a>
+        </li>
+      
+    
+        <li><a id="ctl00_ContentPlaceHolderMain_hyperLinkTabTouchRaceResults" class="imglink" href="https://www.tabtouch.com.au/racing/2017-12-02/pr/1" target="ttolnracing"><img src="images/result.gif" width="21" height="17" alt="Trophy - race results" title="Race Results" class="middle padimage" /><span>TABtouch Race Results</span></a></li>
+    
+</ul>
+<div id="myElement"></div>
+<input name="ctl00$ContentPlaceHolderMain$urlReplay" type="hidden" id="ctl00_ContentPlaceHolderMain_urlReplay" value="aHR0cDovL21lZGlhcnd3YS5za3lyYWNpbmcuY29tLmF1L1JhY2VfUmVwbGF5LzIwMTcvMTIvMjAxNzEyMDJBU0NSMDFfVi5tcDQ=" />
+
+<p id="crissearch"><a href="default.aspx">Return to CRIS Search</a></p>
+
+
+                            </form>
+
+                            <div class="cleaner">&nbsp;</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+<!-- MAIN CONTENT REGION : END -->
+
+<div id="newswidget">
+</div>
+
+<!-- FOOTER : START -->
+            <section class="harness-color support-banner">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xs-2 col-sm-12 col-md-6 support-banner__tagline">TAB SUPPORTS RESPONSIBLE WAGERING</div>
+                    <div class="col-xs-7 col-xs-offset-3 col-sm-3 col-sm-offset-2 col-sm-offset-2 col-md-2 col-md-offset-0 col-lg-3 support-banner__link">Call <a href="#">1800 858 858</a></div>
+                    <div class="col-xs-7 col-xs-offset-3 col-sm-5 col-sm-offset-0 col-md-4 col-lg-3 support-banner__link">Visit <a href="http://gamblinghelponline.org.au">gambling<wbr />help<wbr />online.org.au</a></div>
+                </div>
+            </div>
+        </section>
+        <footer>
+            <div class="container">
+                <div class="row">
+                    <div class="col-xs-12 col-sm-4 col-lg-2">
+                        <img src="/CRIS/assets/images/structural/RWWA-logo.png" alt="RWWA&#39;s logo" border="0" width="178" height="69" class="footer__logo">
+                        <div class="h7">PHONE</div>
+                        <div class="footer__phone">(618) 9445 5333</div>
+                        <div class="h7">EMAIL</div>
+                        <div><a class="footer__email" href="mailto:info@rwwa.com.au">info@rwwa.com.au</a></div>
+                        <div class="h7">ADDRESS</div>
+                        <div class="footer__address">
+                            <p>14 Hasler Road<span class="visible-xs-inline">,</span><br />
+Osborne Park WA<span class="visible-xs-inline">,</span><br />
+6017</p>
+                        </div>
+                    </div>
+                    <div class="col-sm-8 col-lg-10 hidden-xs footer__links">
+                        
+                            <div class="col-md-3 col-sm-6">
+                                <h2 class="h6">Media Centre</h2>
+                                <ul class="footer__menu ">
+                                    
+                                    
+                
+                
+                            <li><a href="/home/media-centre/news.html">News</a></li>
+                        
+                            <li><a href="/home/media-centre/image-galleries-291.html">Image Galleries</a></li>
+                        
+                            <li><a href="/home/media-centre/publications.html">Publications</a></li>
+                        
+                            <li><a href="/home/media-centre/rwwa-media-awards-111.html">RWWA Awards</a></li>
+                        
+                            <li><a href="/home/media-centre/media-enquiries-7161.html">Media Enquiries</a></li>
+                        
+            
+            
+                                </ul>
+                            </div>
+                        
+                            <div class="col-md-3 col-sm-6">
+                                <h2 class="h6">Welfare</h2>
+                                <ul class="footer__menu ">
+                                    
+                                    
+                
+                
+                            <li><a href="/home/welfare/greyhound-welfare-5822.html">Greyhound Welfare</a></li>
+                        
+                            <li><a href="/home/welfare/equine-welfare-5821.html">Equine Welfare</a></li>
+                        
+                            <li><a href="/home/welfare/industry-welfare-8166.html">Industry Welfare</a></li>
+                        
+            
+            
+                                </ul>
+                            </div>
+                        
+                            <div class="col-md-3 col-sm-6">
+                                <h2 class="h6">Clubs &amp; Events</h2>
+                                <ul class="footer__menu ">
+                                    
+                                    
+                
+                
+                            <li><a href="/home/club-events/race-clubs.html">Race Clubs</a></li>
+                        
+                            <li><a href="/home/club-events/industry-events.html">Industry Events</a></li>
+                        
+                            <li><a href="/home/club-events/wa-country-cups.html">WA Country Cups</a></li>
+                        
+                            <li><a href="/home/club-events/wa-racing-hall-of-fame.html">WA Racing Hall of Fame</a></li>
+                        
+                            <li><a href="/home/club-events/for-the-love-of-racing.html">For The Love Of Racing</a></li>
+                        
+                            <li><a href="/home/club-events/harness-the-rhythm.html">Harness The Rhythm</a></li>
+                        
+            
+            
+                                </ul>
+                            </div>
+                        
+                            <div class="col-md-3 col-sm-6">
+                                <h2 class="h6">About</h2>
+                                <ul class="footer__menu ">
+                                    
+                                    
+                
+                
+                            <li><a href="/home/about/about-us.html">About Us</a></li>
+                        
+                            <li><a href="/home/about/governance.html">Governance</a></li>
+                        
+                            <li><a href="/home/about/corporate.html">Corporate</a></li>
+                        
+                            <li><a href="/home/about/history.html">History</a></li>
+                        
+                            <li><a href="/home/about/contact.html">Contact</a></li>
+                        
+                            <li><a href="/home/about/careers.html">Careers</a></li>
+                        
+            
+            
+                                </ul>
+                            </div>
+                        
+                            <div class="col-md-3 col-sm-6">
+                                <h2 class="h6">Racing</h2>
+                                <ul class="footer__menu ">
+                                    
+                                    
+                
+                
+                            <li><a href="/home/racing/thoroughbred-hub.html">Thoroughbred Hub</a></li>
+                        
+                            <li><a href="/home/racing/harness-hub.html">Harness Hub</a></li>
+                        
+                            <li><a href="/home/racing/greyhound-hub.html">Greyhound Hub</a></li>
+                        
+            
+            
+                                </ul>
+                            </div>
+                        
+                            <div class="col-md-3 col-sm-6">
+                                <h2 class="h6">Our Community</h2>
+                                <ul class="footer__menu ">
+                                    
+                                    
+                
+                
+                            <li><a href="/home/our-community/off-the-track.html">Off the Track</a></li>
+                        
+                            <li><a href="/home/our-community/greyhounds-as-pets.html">Greyhounds As Pets</a></li>
+                        
+                            <li><a href="/home/our-community/owners-only.html">Owners Only</a></li>
+                        
+                            <li><a href="/home/our-community/community-tab.html">Community TAB</a></li>
+                        
+                            <li><a href="/home/our-community/tabradio.html">TABradio</a></li>
+                        
+                            <li><a href="/home/our-community/leap-lead-love.html">Leap Lead Love</a></li>
+                        
+            
+            
+                                </ul>
+                            </div>
+                        
+                            <div class="col-md-3 col-sm-6">
+                                <h2 class="h6">Industry</h2>
+                                <ul class="footer__menu ">
+                                    
+                                    
+                
+                
+                            <li><a href="/home/industry/registration-forms.html">Registrations & Forms</a></li>
+                        
+                            <li><a href="/home/industry/integrity.html">Integrity</a></li>
+                        
+                            <li><a href="/home/industry/tabtouch.html">TABtouch</a></li>
+                        
+                            <li><a href="/home/industry/thoroughbreds-68.html">Thoroughbreds</a></li>
+                        
+                            <li><a href="/home/industry/harness-69.html">Harness</a></li>
+                        
+                            <li><a href="/home/industry/greyhounds-70.html">Greyhounds</a></li>
+                        
+                            <li><a href="/home/industry/industry-info.html">Industry Info</a></li>
+                        
+            
+            
+                                </ul>
+                            </div>
+                        
+                    </div>
+                </div>
+            </div>
+        </footer>
+        <div class="subfooter">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xs-12 col-md-9">
+                        <span class="subfooter__copyright">
+                        <span class="visible-xs-inline-block">&copy;</span>
+                        <span class="hidden-xs">Copyright</span>
+                        2015 Racing and Wagering Western Australia.
+                        </span>
+                        <a class="subfooter__link" href="/home/terms-conditions-36.html">Terms &amp; Conditions</a><a class="subfooter__link" href="/home/privacy-policy.html">Privacy Policy</a><a class="subfooter__link" href="/home/sitemap-38.html">Sitemap</a>
+                    </div>
+                    <div class="col-xs-12 col-md-3">
+                        <ul class="subfooter__social-network">
+                            <li><a href="https://www.facebook.com/racingandwageringwa/"><i class="fa fa-facebook-square"></i></a></li>
+                            <li><a href="https://www.linkedin.com/company/racing-&-wagering-wa-rwwa"><i class="fa fa-linkedin-square"></i></a></li>
+                            <li><a href="https://twitter.com/OfficialRWWA"><i class="fa fa-twitter-square"></i></a></li>
+                            <li><a href="https://www.youtube.com/user/OfficialRWWA"><i class="fa fa-youtube-square"></i></a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Google Analytics -->
+        
+                <!-- Google Tag Manager (noscript) -->
+                <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KV9CSW4"
+                height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+                <!-- End Google Tag Manager (noscript) -->
+            
+
+    
+    <script type="text/javascript"  src="js/jquery-2.1.4.min.js"></script>    
+    <script type="text/javascript"  src="js/jquery-ui.js"></script>
+    <script type="text/javascript"  src="jwplayer/jwplayer.js"></script>
+    <script type="text/javascript"  src="js/moment.js"></script>    
+    <script type="text/javascript"  src="js/cris.js"></script>
+   
+    
+                <script src="/CRIS/assets/js/owl.carousel.min.js"></script>
+                
+		    
+
+                <script src="/CRIS/assets/js/icheck.min.js"></script>
+                
+		    
+
+                <script src="/CRIS/assets/js/masonry.pkgd.min.js"></script>
+                
+		    
+
+                <script src="/CRIS/assets/js/main.js"></script>
+                
+		    
+
+
+<script>
+$(function() {
+  $.each(q,function(index,f){
+    $(f)
+  });
+});
+</script>
+
+    
+    <script type="text/javascript">
+    $(document).ready(function () {
+        // device detection
+        if (!(window.matchMedia("(min-width: 760px)").matches)) {
+            jwplayer("myElement").setup({
+                file: decode('aHR0cDovL21lZGlhcnd3YS5za3lyYWNpbmcuY29tLmF1L1JhY2VfUmVwbGF5LzIwMTcvMTIvMjAxNzEyMDJBU0NSMDFfVi5tcDQ='),
+                width: "100%",
+                height: 360,
+                autostart: true
+            });
+            $('#rrply').hide();
+        }
+
+        var topanc = document.getElementById('topanc');
+        if ($(topanc).length > 0) {
+            topanc.scrollIntoView();
+        }
+    });
+    function decode(s) {
+        var e = {}, i, b = 0, c, x, l = 0, a, r = '', w = String.fromCharCode, L = s.length;
+        var A = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/";
+        for (i = 0; i < 64; i++) {
+            e[A.charAt(i)] = i;
+        }
+        for (x = 0; x < L; x++) {
+            c = e[s.charAt(x)];
+            b = (b << 6) + c;
+            l += 6;
+            while (l >= 8) {
+                ((a = (b >>> (l -= 8)) & 0xff) || (x < (L - 2))) && (r += w(a));
+            }
+        }
+        return r;
+    }
+</script>
+
+</body>
+</html>

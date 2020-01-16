@@ -1,0 +1,250 @@
+Please enter a race address: Starters:
+Race 1, Pinjarra Park, Sunday 28/04/2019
+No                            Horse                         Br                            Trainer                       Rider                         Odds                          
+1                             CRICKET INDA HOUSE            2                             JULIEN KOKOTAJLO              EDDIE PHILP                   $16.0                         
+2                             DREAM STREAM                  12                            CHLOE AZZOPARDI               DONNA RIORDAN                 $19.0                         
+3                             PRINCELY PACKAGE              8                             COLIN HADDON                  JEFF PIKE                     $6.50                         
+4                             SIR MAMBO                     6                             JARRAD NOSKE                  MARTIN ALLAN                  $3.40                         
+5                             TWENTYTWO BANG                10                            RENEE FORREST                 ROCCO DAGOSTINO               $41.0                         
+6                             ONE OH ONE                    13                            RYAN HILL                     VERNON BROCKMAN               $7.50                         
+7                             MISS QUOTED                   1                             JADE MCNAUGHT                 GRAEME AYRES                  $8.00                         
+8                             SECRET POTION                 9                             JASON WHITING                 GEOFFREY MARRIOTT             $71.0                         
+9                             THE BEACH                     3                             CHRIS PARNHAM                 NEVILLE PARNHAM               $8.00                         
+10                            INDIGO CHILL                  11                            CRAIG STAPLES                 JASON PATEMAN                 $41.0                         
+11                            MADAMCHINO                    7                             PATRICK CARBERY               GRAHAM YUILL                  $15.0                         
+12                            PHANDIERI                     5                             RANDY TAN                     ANNE KING                     $7.50                         
+13                            LIL' RED BIKINI               4                             ANDREW CASTLE                 PHILLIP MCLEOD                $71.0                         
+Race 2, Pinjarra Park, Sunday 28/04/2019
+No                            Horse                         Br                            Trainer                       Rider                         Odds                          
+1                             OUQBA TED                     10                            BEN PATERSON                  KATH FLEMING                  $17.0                         
+2                             SHIVERS OF JOY                7                             PATRICK CARBERY               GRAEME AYRES                  $26.0                         
+3                             DEADLY TOUCH                  8                             JARRAD NOSKE                  ADAM FAIREY                   $23.0                         
+4                             ORAVA                         2                             RANDY TAN                     ANNE KING                     $2.00                         
+5                             VENGEANCE OF WAR              4                             CRAIG STAPLES                 GRANT & ALANA WILLIAMS        $2.90                         
+6                             GOD PARTICLE                  13                            JADE MCNAUGHT                 DONNA BAILLIE                 $101.                         
+7                             RUN FOR WINNIE                3                             JULIEN KOKOTAJLO              GREG CARIGE                   $81.0                         
+8                             ACROSS THE SEA                5                             CHLOE AZZOPARDI               NATALIE BURKE                 $16.0                         
+9                             DINKUM GIRL                   1                             BEAUX BANOVIC-EDWARDS         BRETT POPE                    $12.0                         
+10                            ZIPPITY                       12                            ANDREW CASTLE                 GARY HITCHCOCK                $51.0                         
+11                            KUDAWOULDASHOULDA             6                             RENEE FORREST                 MEESHA LOGAN                  $31.0                         
+12                            RUN FOR MONEY                 0                             SCRATCHED                     SC                            SC                            
+13                            TRACEYANNE                    14                            JASON WHITING                 GREG CARIGE                   $71.0                         
+14                            VITAL STATE                   11                            RYAN HILL                     JAYNE BUSSLINGER              $126.                         
+15                            BINTANG LADY                  9                             SIMONE ALTIERI                KAYLA FARRELL                 $101.                         
+16                            LOVE TO BE SCENE              0                             SCRATCHED                     SC                            SC                            
+Race 3, Pinjarra Park, Sunday 28/04/2019
+No                            Horse                         Br                            Trainer                       Rider                         Odds                          
+1                             MEGAZONE                      10                            JADE MCNAUGHT                 ASHLEY MALEY                  $2.50                         
+2                             EMPOWERED                     12                            STEVEN PARNHAM                NEVILLE PARNHAM               $26.0                         
+3                             THE HAKA                      13                            PATRICK CARBERY               KAYLA FARRELL                 $101.                         
+4                             DUSTYPARK                     3                             BRANDON LOUIS                 NEVILLE PARNHAM               $26.0                         
+5                             REXFORD                       8                             JASON WHITING                 ROBYN LOCKWOOD                $26.0                         
+6                             ALL TRUMPS                    9                             JERRY NOSKE                   TED MARTINOVICH               $34.0                         
+7                             GINGER MACK                   14                            RENEE FORREST                 JAYNE BUSSLINGER              $41.0                         
+8                             TYPHOON BEN                   11                            JARRAD NOSKE                  TOM WIDDESON                  $71.0                         
+9                             I'M PRETTY                    6                             CHLOE AZZOPARDI               ADAM DURRANT                  $8.00                         
+10                            COOL FROST                    15                            RANDY TAN                     SHARON MILLER                 $21.0                         
+11                            CASINO WAR                    2                             SIMONE ALTIERI                KRISTA PIKE                   $5.00                         
+12                            LITTLE FLIRT                  5                             EMMA STENT                    ROBERT MATTHEWS               $31.0                         
+13                            MERCURY MISS                  1                             BEN PATERSON                  KATH FLEMING                  $31.0                         
+14                            MORNING SONG                  7                             CRAIG STAPLES                 GRANT & ALANA WILLIAMS        $4.60                         
+15                            MISS D'AMINA                  4                             KATE WITTEN                   ROSS PRICE                    $51.0                         
+Race 4, Pinjarra Park, Sunday 28/04/2019
+No                            Horse                         Br                            Trainer                       Rider                         Odds                          
+1                             HARD TOO CEE                  1                             PETER HALL                    MATTHEW SCOTT                 $26.0                         
+2                             SIDE WAYS SYD                 6                             ANDREW CASTLE                 DIANE REED                    $101.                         
+3                             SCHOOLING                     12                            SIMONE ALTIERI                JIM ENRIGHT                   $126.                         
+4                             MAGIC EMPIRE                  4                             JARRAD NOSKE                  ADAM DURRANT                  $2.05                         
+5                             FLIRTY FRIARS                 14                            RYAN HILL                     PAUL JORDAN                   $8.00                         
+6                             HE'S A GUNSLINGER             0                             SCRATCHED                     SC                            SC                            
+7                             LAMBEK                        10                            BEN PATERSON                  KATH FLEMING                  $51.0                         
+8                             SHOES OF EKRAAR (NZ)          11                            STEVEN PARNHAM                PETER LYNCH                   $51.0                         
+9                             FRIAR'S MOON                  7                             JASON WHITING                 LOU LUCIANI                   $5.50                         
+10                            BRITISH BESSY                 3                             JERRY NOSKE                   SHARON MILLER                 $4.80                         
+11                            MISKETA                       9                             KATE SOUTHAM                  REBECCA SHANKS                $91.0                         
+12                            PINK AND PURPLE               8                             CHLOE AZZOPARDI               JESSICA VALAS                 $31.0                         
+13                            DOLLY'S DREAM                 2                             PATRICK CARBERY               GAVIN FOSTER                  $81.0                         
+14                            JEVABELL                      5                             JADE MCNAUGHT                 FRED KERSLEY                  $23.0                         
+15                            SILVER QUEEN                  13                            RANDY TAN                     TARA ITZSTEIN                 $26.0                         
+Race 5, Pinjarra Park, Sunday 28/04/2019
+No                            Horse                         Br                            Trainer                       Rider                         Odds                          
+1                             IMPI                          0                             SCRATCHED                     SC                            SC                            
+2                             THROWDOWN                     8                             RYAN HILL                     STEPHEN MILLER                $3.70                         
+3                             ARNIE'S BOY                   1                             JADE MCNAUGHT                 ASHLEY MALEY                  $1.85                         
+4                             ARMED AND READY               7                             BRODIE KIRBY                  MARK BAIRSTOW                 $10.0                         
+5                             BLACK COMET                   5                             JARRAD NOSKE                  DANIEL & BEN PEARCE           $10.0                         
+6                             TECHNICAL LIMIT               6                             TAKAHIDE IKENUSHI             TAMEEKA BROWN                 $7.50                         
+7                             ASIAN PEARL                   2                             ANDREW CASTLE                 ROSE CHURCHILL                $81.0                         
+8                             MELROS BEACH                  4                             RANDY TAN                     BRETT POPE                    $23.0                         
+9                             SAXY FILLY                    3                             RENEE FORREST                 MEESHA LOGAN                  $61.0                         
+Race 6, Pinjarra Park, Sunday 28/04/2019
+No                            Horse                         Br                            Trainer                       Rider                         Odds                          
+1                             BUFF MAN                      7                             JADE MCNAUGHT                 MARTIN ALLAN                  $5.00                         
+2                             DARING SOLEIL                 9                             TAKAHIDE IKENUSHI             BRETT POPE                    $6.00                         
+3                             MISTER KRUMPETS               3                             PETER HALL                    GRANT & ALANA WILLIAMS        $4.40                         
+4                             FUTURIST                      8                             SIMONE ALTIERI                PETER FARRELL                 $21.0                         
+5                             STELLA ANNE                   0                             SCRATCHED                     SC                            SC                            
+6                             ANGRY ANNIE                   1                             JARRAD NOSKE                  TIARNNA ROBERTSON             $2.20                         
+7                             LICABULL                      2                             KYRA YUILL                    ANDREW CARRAILL               $34.0                         
+8                             PASADONNA                     4                             RENEE FORREST                 BRETT SOUTHCOTT               $26.0                         
+9                             METALLIC FINISH               5                             COLIN HADDON                  JEFF PIKE                     $91.0                         
+10                            REACTION                      6                             RANDY TAN                     DES WALDOCK                   $41.0                         
+Race 7, Pinjarra Park, Sunday 28/04/2019
+No                            Horse                         Br                            Trainer                       Rider                         Odds                          
+1                             FIRST GROWTH                  0                             SCRATCHED                     SC                            SC                            
+2                             WARZACHANTZ                   5                             CRAIG STAPLES                 RHYS RADFORD                  $5.50                         
+3                             MIRISISTIBLE                  1                             PATRICK CARBERY               PETER FARRELL                 $18.0                         
+4                             MERIVALE MISS                 7                             KATE WITTEN                   ROSS PRICE                    $6.00                         
+5                             NEVARDA                       3                             NICOLE HOPWOOD                STEPHEN MILLER                $23.0                         
+6                             UNIVERSAL APPEAL              9                             RYAN HILL                     ADAM DURRANT                  $4.00                         
+7                             MATTY'S CHOICE                4                             JADE MCNAUGHT                 ASHLEY MALEY                  $5.00                         
+8                             TIME AND TRUTH                8                             SIMONE ALTIERI                PETER FARRELL                 $16.0                         
+9                             FRIAR'S FANCY                 2                             JASON WHITING                 LOU LUCIANI                   $4.40                         
+10                            KOSTYAZILCH                   10                            MOLLIE CLARK                  JIM ENRIGHT                   $61.0                         
+11                            STORMY PLANET                 11                            BRANDON LOUIS                 BRIAN ROGERS                  $61.0                         
+12                            GENEROUS ALBERT               6                             SASHA STARLEY                 BRAD GRAHAM                   $81.0                         
+13                            NIAYCHI                       0                             SCRATCHED                     SC                            SC                            
+Race 8, Pinjarra Park, Sunday 28/04/2019
+No                            Horse                         Br                            Trainer                       Rider                         Odds                          
+1                             FIRE MAKER                    4                             CHLOE AZZOPARDI               JACKIE PANIZZA                $3.60                         
+2                             FLOWER OF SCOTLAND            12                            TAKAHIDE IKENUSHI             PAIGE KENNEY                  $6.00                         
+3                             DESERT THORN                  6                             SIMONE ALTIERI                JIM ENRIGHT                   $71.0                         
+4                             KAAPANDER                     7                             ANDREW CASTLE                 KAYLA FARRELL                 $10.0                         
+5                             THE GOSPEL SIN                10                            RANDY TAN                     TAMEEKA BROWN                 $31.0                         
+6                             FORK HANDLES                  11                            MOLLIE CLARK                  STEELE CASEY                  $11.0                         
+7                             MR UNDERCOVER                 9                             JERRY NOSKE                   GLENN MCTAGGART               $12.0                         
+8                             ROCKAFELLA (NZ)               0                             SCRATCHED                     SC                            SC                            
+9                             SATURIA                       8                             CRAIG STAPLES                 PAUL JORDAN                   $4.60                         
+10                            STIRLING ESTATE               2                             PATRICK CARBERY               JAMES GRIEVE                  $8.00                         
+11                            CORRESPONDENT                 3                             COLIN HADDON                  JEFF PIKE                     $101.                         
+12                            RED MOON                      1                             JASON WHITING                 DAVID HARRISON                $8.50                         
+13                            JESTER FERRARI                5                             RENEE FORREST                 TOM PIKE                      $41.0                         
+Results:
+Results for Race 1, Pinjarra Park, Sunday 28/04/2019
+----> Of: $16,500; 1st: $9,735; 2nd: $3,300; 3rd: $1,485; 4th: $660; 5th: $330; 6th: $165; 7th: $165; 8th: $165; 9th: $165; 10th: $165; Jockey Welfare: $165
+Placing                       StartPrice                    Br                            Rider                         Trainer                       
+1                             $8                            3                             CHRIS PARNHAM                 NEVILLE PARNHAM               
+2                             $3.30                         6                             JARRAD NOSKE                  MARTIN ALLAN                  
+3                             $8                            5                             RANDY TAN                     ANNE KING                     
+4                             $8                            1                             JADE MCNAUGHT                 GRAEME AYRES                  
+5                             $7.50                         8                             COLIN HADDON                  JEFF PIKE                     
+6                             $16                           2                             JULIEN KOKOTAJLO              EDDIE PHILP                   
+7                             $91                           4                             ANDREW CASTLE                 PHILLIP MCLEOD                
+8                             $16                           7                             PATRICK CARBERY               GRAHAM YUILL                  
+9                             $19                           12                            CHLOE AZZOPARDI               DONNA RIORDAN                 
+10                            $151                          9                             JASON WHITING                 GEOFFREY MARRIOTT             
+11                            $31                           10                            RENEE FORREST                 ROCCO DAGOSTINO               
+12                            $6.50                         13                            RYAN HILL                     VERNON BROCKMAN               
+13                            $41                           11                            CRAIG STAPLES                 JASON PATEMAN                 
+Results for Race 2, Pinjarra Park, Sunday 28/04/2019
+----> Of: $16,500; 1st: $9,735; 2nd: $3,300; 3rd: $1,485; 4th: $660; 5th: $330; 6th: $165; 7th: $165; 8th: $165; 9th: $165; 10th: $165; Jockey Welfare: $165
+Placing                       StartPrice                    Br                            Rider                         Trainer                       
+1                             $2                            2                             RANDY TAN                     ANNE KING                     
+2                             $16                           5                             CHLOE AZZOPARDI               NATALIE BURKE                 
+3                             $2.80                         4                             CRAIG STAPLES                 GRANT & ALANA WILLIAMS        
+4                             $26                           6                             RENEE FORREST                 MEESHA LOGAN                  
+5                             $31                           7                             PATRICK CARBERY               GRAEME AYRES                  
+6                             $16                           10                            BEN PATERSON                  KATH FLEMING                  
+7                             $11                           1                             BEAUX BANOVIC-EDWARDS         BRETT POPE                    
+8                             $101                          3                             JULIEN KOKOTAJLO              GREG CARIGE                   
+9                             $101                          13                            JADE MCNAUGHT                 DONNA BAILLIE                 
+10                            $21                           8                             JARRAD NOSKE                  ADAM FAIREY                   
+11                            $151                          9                             SIMONE ALTIERI                KAYLA FARRELL                 
+12                            $71                           14                            JASON WHITING                 GREG CARIGE                   
+13                            $151                          11                            RYAN HILL                     JAYNE BUSSLINGER              
+14                            $51                           12                            ANDREW CASTLE                 GARY HITCHCOCK                
+SC                                                          0                             JESSICA GRAY                  ADAM DURRANT                  
+SC                                                          0                                                           MICHAEL MILLER                
+Results for Race 3, Pinjarra Park, Sunday 28/04/2019
+----> Of: $16,500; 1st: $9,735; 2nd: $3,300; 3rd: $1,485; 4th: $660; 5th: $330; 6th: $165; 7th: $165; 8th: $165; 9th: $165; 10th: $165; Jockey Welfare: $165
+Placing                       StartPrice                    Br                            Rider                         Trainer                       
+1                             $2.60                         10                            JADE MCNAUGHT                 ASHLEY MALEY                  
+2                             $7.50                         6                             CHLOE AZZOPARDI               ADAM DURRANT                  
+3                             $6                            2                             SIMONE ALTIERI                KRISTA PIKE                   
+4                             $26                           5                             EMMA STENT                    ROBERT MATTHEWS               
+5                             $4.40                         7                             CRAIG STAPLES                 GRANT & ALANA WILLIAMS        
+6                             $26                           8                             JASON WHITING                 ROBYN LOCKWOOD                
+7                             $81                           4                             KATE WITTEN                   ROSS PRICE                    
+8                             $31                           1                             BEN PATERSON                  KATH FLEMING                  
+9                             $26                           12                            STEVEN PARNHAM                NEVILLE PARNHAM               
+10                            $26                           3                             BRANDON LOUIS                 NEVILLE PARNHAM               
+11                            $20                           15                            RANDY TAN                     SHARON MILLER                 
+12                            $71                           11                            JARRAD NOSKE                  TOM WIDDESON                  
+13                            $41                           14                            RENEE FORREST                 JAYNE BUSSLINGER              
+14                            $31                           9                             JERRY NOSKE                   TED MARTINOVICH               
+15                            $151                          13                            PATRICK CARBERY               KAYLA FARRELL                 
+Results for Race 4, Pinjarra Park, Sunday 28/04/2019
+----> Of: $16,500; 1st: $9,735; 2nd: $3,300; 3rd: $1,485; 4th: $660; 5th: $330; 6th: $165; 7th: $165; 8th: $165; 9th: $165; 10th: $165; Jockey Welfare: $165
+Placing                       StartPrice                    Br                            Rider                         Trainer                       
+1                             $8                            14                            RYAN HILL                     PAUL JORDAN                   
+2                             $2.05                         4                             JARRAD NOSKE                  ADAM DURRANT                  
+3                             $5                            7                             JASON WHITING                 LOU LUCIANI                   
+4                             $5                            3                             JERRY NOSKE                   SHARON MILLER                 
+5                             $31                           8                             CHLOE AZZOPARDI               JESSICA VALAS                 
+6                             $21                           5                             JADE MCNAUGHT                 FRED KERSLEY                  
+7                             $51                           10                            BEN PATERSON                  KATH FLEMING                  
+8                             $51                           11                            STEVEN PARNHAM                PETER LYNCH                   
+9                             $26                           1                             PETER HALL                    MATTHEW SCOTT                 
+10                            $101                          6                             ANDREW CASTLE                 DIANE REED                    
+11                            $101                          9                             KATE SOUTHAM                  REBECCA SHANKS                
+12                            $26                           13                            RANDY TAN                     TARA ITZSTEIN                 
+13                            $101                          2                             PATRICK CARBERY               GAVIN FOSTER                  
+14                            $151                          12                            SIMONE ALTIERI                JIM ENRIGHT                   
+SC                                                          0                                                           MARTIN ALLAN                  
+Results for Race 5, Pinjarra Park, Sunday 28/04/2019
+----> Of: $19,000; 1st: $11,210; 2nd: $3,800; 3rd: $1,710; 4th: $760; 5th: $380; 6th: $190; 7th: $190; 8th: $190; 9th: $190; 10th: $190; Jockey Welfare: $190
+Placing                       StartPrice                    Br                            Rider                         Trainer                       
+1                             $1.90                         1                             JADE MCNAUGHT                 ASHLEY MALEY                  
+2                             $21                           4                             RANDY TAN                     BRETT POPE                    
+3                             $11                           5                             JARRAD NOSKE                  DANIEL & BEN PEARCE           
+4                             $3.50                         8                             RYAN HILL                     STEPHEN MILLER                
+5                             $61                           3                             RENEE FORREST                 MEESHA LOGAN                  
+6                             $11                           7                             BRODIE KIRBY                  MARK BAIRSTOW                 
+7                             $7.50                         6                             TAKAHIDE IKENUSHI             TAMEEKA BROWN                 
+8                             $101                          2                             ANDREW CASTLE                 ROSE CHURCHILL                
+SC                                                          0                             LUCY WARWICK                  JUSTIN WARWICK                
+Results for Race 6, Pinjarra Park, Sunday 28/04/2019
+----> Of: $19,000; 1st: $11,210; 2nd: $3,800; 3rd: $1,710; 4th: $760; 5th: $380; 6th: $190; 7th: $190; 8th: $190; 9th: $190; 10th: $190; Jockey Welfare: $190
+Placing                       StartPrice                    Br                            Rider                         Trainer                       
+1                             $2.15                         1                             JARRAD NOSKE                  TIARNNA ROBERTSON             
+2                             $21                           8                             SIMONE ALTIERI                PETER FARRELL                 
+3                             $101                          5                             COLIN HADDON                  JEFF PIKE                     
+4                             $5                            7                             JADE MCNAUGHT                 MARTIN ALLAN                  
+5                             $61                           2                             KYRA YUILL                    ANDREW CARRAILL               
+6                             $21                           4                             RENEE FORREST                 BRETT SOUTHCOTT               
+7                             $5.50                         9                             TAKAHIDE IKENUSHI             BRETT POPE                    
+8                             $4.80                         3                             PETER HALL                    GRANT & ALANA WILLIAMS        
+9                             $41                           6                             RANDY TAN                     DES WALDOCK                   
+SC                                                          0                             CRAIG STAPLES                 CHRIS STELMACH                
+Results for Race 7, Pinjarra Park, Sunday 28/04/2019
+----> Of: $19,000; 1st: $11,210; 2nd: $3,800; 3rd: $1,710; 4th: $760; 5th: $380; 6th: $190; 7th: $190; 8th: $190; 9th: $190; 10th: $190; Jockey Welfare: $190
+Placing                       StartPrice                    Br                            Rider                         Trainer                       
+1                             $7.50                         7                             KATE WITTEN                   ROSS PRICE                    
+2                             $4.40                         2                             JASON WHITING                 LOU LUCIANI                   
+3                             $4                            9                             RYAN HILL                     ADAM DURRANT                  
+4                             $4.60                         4                             JADE MCNAUGHT                 ASHLEY MALEY                  
+5                             $26                           3                             NICOLE HOPWOOD                STEPHEN MILLER                
+6                             $5                            5                             CRAIG STAPLES                 RHYS RADFORD                  
+7                             $91                           6                             SASHA STARLEY                 BRAD GRAHAM                   
+8                             $19                           1                             PATRICK CARBERY               PETER FARRELL                 
+9                             $61                           10                            MOLLIE CLARK                  JIM ENRIGHT                   
+10                            $16                           8                             SIMONE ALTIERI                PETER FARRELL                 
+11                            $71                           11                            BRANDON LOUIS                 BRIAN ROGERS                  
+SC                                                          0                                                           MARTIN ALLAN                  
+SC                                                          0                             RANDY TAN                     GREG CARIGE                   
+Results for Race 8, Pinjarra Park, Sunday 28/04/2019
+----> Of: $19,000; 1st: $11,210; 2nd: $3,800; 3rd: $1,710; 4th: $760; 5th: $380; 6th: $190; 7th: $190; 8th: $190; 9th: $190; 10th: $190; Jockey Welfare: $190
+Placing                       StartPrice                    Br                            Rider                         Trainer                       
+1                             $6.50                         12                            TAKAHIDE IKENUSHI             PAIGE KENNEY                  
+2                             $11                           11                            MOLLIE CLARK                  STEELE CASEY                  
+3                             $8                            1                             JASON WHITING                 DAVID HARRISON                
+4                             $3.50                         4                             CHLOE AZZOPARDI               JACKIE PANIZZA                
+5                             $8                            2                             PATRICK CARBERY               JAMES GRIEVE                  
+6                             $4.60                         8                             CRAIG STAPLES                 PAUL JORDAN                   
+7                             $31                           10                            RANDY TAN                     TAMEEKA BROWN                 
+8                             $11                           7                             ANDREW CASTLE                 KAYLA FARRELL                 
+9                             $12                           9                             JERRY NOSKE                   GLENN MCTAGGART               
+10                            $101                          5                             RENEE FORREST                 TOM PIKE                      
+11                            $151                          3                             COLIN HADDON                  JEFF PIKE                     
+12                            $71                           6                             SIMONE ALTIERI                JIM ENRIGHT                   
+SC                                                          0                             JARRAD NOSKE                  CHRIS GANGEMI                 
